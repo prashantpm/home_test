@@ -1,0 +1,4 @@
+total 8
+-rw-rw-r--. 1 ec2-user ec2-user 204 Jan 12 17:33 f1.txt
+-rw-rw-r--. 1 ec2-user ec2-user  45 Jan 12 17:53 exeread
+-rw-rw-r--. 1 ec2-user ec2-user   0 Jan 12 17:56 f2.txt
